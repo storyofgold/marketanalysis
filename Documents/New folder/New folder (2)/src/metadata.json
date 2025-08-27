@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Multi-Chart Layout untuk GITHUB",
+  "description": "A web application that displays a 2x2 grid of TradingView charts, each featuring a pre-configured EMA 200 indicator.",
+  "requestFramePermissions": []
+}
